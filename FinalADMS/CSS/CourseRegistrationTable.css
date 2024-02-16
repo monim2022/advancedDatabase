@@ -1,0 +1,22 @@
+
+.table {
+    width: 57.1%;
+    height: auto;
+    background-color: aqua;
+    border: 2px solid black;
+    border-collapse: collapse;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+tr, td {
+    border: 1px solid black;
+    width: 27%;
+    text-align: center;
+    padding: 15px;
+    padding-left: 22px;
+    padding-right: 22px;
+
+}
+
+tr:hover {background-color: coral;}

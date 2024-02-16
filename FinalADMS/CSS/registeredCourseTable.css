@@ -1,0 +1,20 @@
+
+table{
+    height: auto;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-left: 12%;
+
+
+    
+}
+
+tr, td {
+    text-align: center;
+    width: 10%;
+    background-color: aqua;
+
+
+}
+
+tr:hover {background-color: coral;}

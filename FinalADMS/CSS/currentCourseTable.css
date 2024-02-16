@@ -1,0 +1,16 @@
+
+.table {
+    width: 57.1%;
+    background-color: aqua;
+    border: 1px solid black;
+    margin-top: 20px;
+}
+
+tr, td {
+    width: 27%;
+    text-align: center;
+   
+
+}
+
+tr:hover {background-color: coral;}
